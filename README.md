@@ -2,5 +2,4 @@
 
 To initialize the database, run the following commands:
 
-    docker exec -it netflexdb bash
-    ./restore.sh
+    docker exec -u 0 -it netflexdb sh -c ./restore.sh

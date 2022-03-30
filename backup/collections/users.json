@@ -1,9 +1,1 @@
-[{
-  "_id": {
-    "$oid": "624321da69e696acb8ad4d47"
-  },
-  "username": "dev",
-  "email": "dev@netflex.com",
-  "password": "123456",
-  "groupes": "[]"
-}]
+[]
